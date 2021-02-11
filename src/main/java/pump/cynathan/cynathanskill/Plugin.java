@@ -1,4 +1,4 @@
-package not.hub.cynathanskill;
+package pump.cynathan.cynathanskill;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Entity;
