@@ -1,0 +1,14 @@
+*
+!*/
+
+!/.gitignore
+!/.gitmodules
+!/.neckbeard
+!/LICENSE
+!/pom.xml
+!/README.md
+
+!/.github/**
+!/.run/**
+!/convenience/**
+!/src/**
